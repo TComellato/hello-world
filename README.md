@@ -1,3 +1,3 @@
 # hello-world
 
-Prima versione
+Erste Version
